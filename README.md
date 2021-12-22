@@ -11,6 +11,8 @@ This project will incorporate several data science techniques to find the optima
  
 # [Project 2: Data Preparation & Analysis Project](https://github.com/gregteo/Programming-for-Business-Analytics)
 
+This project applies web data extraction techniques to retrieve business names and other related information from webpage. Extracted business names are used as keys and all related information are labelled and stored as values in a dictionary.
+
 #### [Part A: Data Preparation Module](https://github.com/gregteo/Programming-for-Business-Analytics/blob/main/CIS9650-Final%20Project%20Part%20A%20Final%20Output.ipynb)
  * Applies web data extraction techniques to retrieve business names and other related information from webpage
 
@@ -19,12 +21,16 @@ This project will incorporate several data science techniques to find the optima
 
 # [Project 3: Models on Predicting Movie Rating Project using R](https://github.com/gregteo/Software-Tools-for-Data-Analysis/blob/main/movie.pdf)
 
+This project aims to predict movies' ratings release on or before July 2017 by using various variables including budget, adult, run time, release date, genre and production company.
+
 #### Models used in this project:
  * Random Forest
  * Linear Regression
  * Regression Tree
 
 # [Project 4: Database Management Project using Microsoft Access](https://github.com/gregteo/Principles-of-Database-Management-Systems/blob/main/Knicks%E2%80%99%20Resurrection%20Project.pdf)
+
+The project aims to build a database for the New York Knicks that keeps track of the player's performance, staff utilization, and other metrics that can result in useful findings down the road.
 
 #### Models used in this project:
  * Entity Relationship Model
@@ -33,6 +39,8 @@ This project will incorporate several data science techniques to find the optima
  * Application Implementation using Navigation Form, Queries, Lookup Forms & Reports
  
 # [Project 5: Data Mining for Business Analytics Project using R](https://github.com/gregteo/Data-Mining-for-Business-Analytics/blob/main/CIS9660FinalREPORT.pdf)
+
+This project applies several data analysis techniques to predict the final charges of health insurance using several variables like agi, BMI, sex, smoker, region & number of children.
 
 #### Models & Tools used in this project:
  * Linear Regression
