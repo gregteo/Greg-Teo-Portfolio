@@ -15,7 +15,12 @@
 ### [Part B: Data Analysis Module](https://github.com/gregteo/Programming-for-Business-Analytics/blob/main/CIS%209650-%20Group%2012%20Final%20Project%20Part%20B.ipynb)
  * Analysis of extracted data from webpage
 
-# Project 3:
+# [Project 3: Models on Predicting Movie Rating Project using R](https://github.com/gregteo/Software-Tools-for-Data-Analysis/blob/main/movie.pdf)
+
+### Models used in this project:
+ * Random Forest
+ * Linear Regression
+ * Regression Tree
 
 # Project 4:
 
