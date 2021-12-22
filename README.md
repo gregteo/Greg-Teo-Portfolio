@@ -30,4 +30,12 @@
  * Normalization
  * Application Implementation using Navigation Form, Queries, Lookup Forms & Reports
  
-# Project 5:
+# [Project 5: Data Mining for Business Analytics Project using R](https://github.com/gregteo/Data-Mining-for-Business-Analytics/blob/main/CIS9660FinalREPORT.pdf)
+
+### Models & Tools used in this project:
+ * Linear Regression
+ * Hold-out method
+ * Cross Validation
+ * Regression Tree
+ * Bagging
+ * Random Forest
