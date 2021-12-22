@@ -22,6 +22,12 @@
  * Linear Regression
  * Regression Tree
 
-# Project 4:
+# [Project 4: Database Management Project using Microsoft Access](https://github.com/gregteo/Principles-of-Database-Management-Systems/blob/main/Knicks%E2%80%99%20Resurrection%20Project.pdf)
 
+### Models used in this project:
+ * Entity Relationship Model
+ * Relational Model
+ * Normalization
+ * Application Implementation using Navigation Form, Queries, Lookup Forms & Reports
+ 
 # Project 5:
