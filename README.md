@@ -9,7 +9,7 @@ This project will incorporate several data science techniques to find the optima
  * Latitude and longitude of neighbourhoods using Google Maps **Geodcoding API**
  * Number and type of restaurant in an area using **Foursquare API**
 
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%201%20image.png)
+![](/images/project%201%20image.png)
  
 # [Project 2: Data Preparation & Analysis Project](https://github.com/gregteo/Programming-for-Business-Analytics)
 
@@ -21,9 +21,9 @@ This project applies web data extraction techniques to retrieve business names a
 #### [Part B: Data Analysis Module](https://github.com/gregteo/Programming-for-Business-Analytics/blob/main/CIS%209650-%20Group%2012%20Final%20Project%20Part%20B.ipynb)
  * Analysis of extracted data from webpage
 
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%202%20image%201.png)
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%202%20image%202.png)
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%202%20image%203.png)
+![](/images/project%202%20image%201.png)
+![](/images/project%202%20image%202.png)
+![](/images/project%202%20image%203.png)
 
 # [Project 3: Models on Predicting Movie Rating Project using R](https://github.com/gregteo/Software-Tools-for-Data-Analysis/blob/main/movie.pdf)
 
@@ -34,9 +34,9 @@ This project aims to predict movies' ratings release on or before July 2017 by u
  * Linear Regression
  * Regression Tree
 
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%203%20image%201.PNG)
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%203%20image%202.PNG)
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%203%20image%203.PNG)
+![](/images/project%203%20image%201.PNG)
+![](/images/project%203%20image%202.PNG)
+![](/images/project%203%20image%203.PNG)
 
 # [Project 4: Database Management Project using Microsoft Access](https://github.com/gregteo/Principles-of-Database-Management-Systems/blob/main/Knicks%E2%80%99%20Resurrection%20Project.pdf)
 
@@ -48,7 +48,7 @@ The project aims to build a database for the New York Knicks that keeps track of
  * Normalization
  * Application Implementation using Navigation Form, Queries, Lookup Forms & Reports
 
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%204%20image.PNG)
+![](/images/project%204%20image.PNG)
  
 # [Project 5: Data Mining for Business Analytics Project using R](https://github.com/gregteo/Data-Mining-for-Business-Analytics/blob/main/CIS9660FinalREPORT.pdf)
 
@@ -62,6 +62,6 @@ This project applies several data analysis techniques to predict the final charg
  * Bagging
  * Random Forest
 
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%205%20image%201.PNG)
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%205%20image%202.PNG)
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%205%20image%203.PNG)
+![](/images/project%205%20image%201.PNG)
+![](/images/project%205%20image%202.PNG)
+![](/images/project%205%20image%203.PNG)
