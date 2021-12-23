@@ -23,7 +23,9 @@ This project applies web data extraction techniques to retrieve business names a
 
 <img src="images/project%202%20image%201.png">
 <img src="images/project%202%20image%202.png">
-<img src="images/project%202%20image%203.png">
+<p align="center">
+ <img src="images/project%202%20image%203.png">
+</p>
 
 # [Project 3: Models on Predicting Movie Rating Project using R](https://github.com/gregteo/Software-Tools-for-Data-Analysis/blob/main/movie.pdf)
 
@@ -34,9 +36,10 @@ This project aims to predict movies' ratings release on or before July 2017 by u
  * Linear Regression
  * Regression Tree
 
-<img src="images/project%203%20image%201.PNG" width="500">
-<img src="images/project%203%20image%202.PNG" width="500">
-<img src="images/project%203%20image%203.PNG" width="500">
+<img src="images/project%203%20image%201.PNG" width="500"> <img src="images/project%203%20image%202.PNG" width="500">
+<p align="center">
+ <img src="images/project%203%20image%203.PNG" width="500">
+</p>
 
 # [Project 4: Database Management Project using Microsoft Access](https://github.com/gregteo/Principles-of-Database-Management-Systems/blob/main/Knicks%E2%80%99%20Resurrection%20Project.pdf)
 
