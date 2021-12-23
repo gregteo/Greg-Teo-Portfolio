@@ -34,9 +34,9 @@ This project aims to predict movies' ratings release on or before July 2017 by u
  * Linear Regression
  * Regression Tree
 
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%203%20image%201.png)
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%203%20image%202.png)
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%203%20image%203.png)
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%203%20image%201.PNG)
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%203%20image%202.PNG)
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%203%20image%203.PNG)
 
 # [Project 4: Database Management Project using Microsoft Access](https://github.com/gregteo/Principles-of-Database-Management-Systems/blob/main/Knicks%E2%80%99%20Resurrection%20Project.pdf)
 
@@ -48,7 +48,7 @@ The project aims to build a database for the New York Knicks that keeps track of
  * Normalization
  * Application Implementation using Navigation Form, Queries, Lookup Forms & Reports
 
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%204%20image.png)
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%204%20image.PNG)
  
 # [Project 5: Data Mining for Business Analytics Project using R](https://github.com/gregteo/Data-Mining-for-Business-Analytics/blob/main/CIS9660FinalREPORT.pdf)
 
@@ -62,6 +62,6 @@ This project applies several data analysis techniques to predict the final charg
  * Bagging
  * Random Forest
 
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%205%20image%201.png)
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%205%20image%202.png)
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%205%20image%203.png)
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%205%20image%201.PNG)
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%205%20image%202.PNG)
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%205%20image%203.PNG)
