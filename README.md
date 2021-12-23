@@ -47,6 +47,8 @@ The project aims to build a database for the New York Knicks that keeps track of
  * Relational Model
  * Normalization
  * Application Implementation using Navigation Form, Queries, Lookup Forms & Reports
+
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%204%20image.png)
  
 # [Project 5: Data Mining for Business Analytics Project using R](https://github.com/gregteo/Data-Mining-for-Business-Analytics/blob/main/CIS9660FinalREPORT.pdf)
 
@@ -59,3 +61,7 @@ This project applies several data analysis techniques to predict the final charg
  * Regression Tree
  * Bagging
  * Random Forest
+
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%205%20image%201.png)
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%205%20image%202.png)
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%205%20image%203.png)
