@@ -9,7 +9,9 @@ This project will incorporate several data science techniques to find the optima
  * Latitude and longitude of neighbourhoods using Google Maps **Geodcoding API**
  * Number and type of restaurant in an area using **Foursquare API**
 
-<img src="images/project%201%20image.png">
+<p align="center">
+ <img src="images/project%201%20image.png">
+</p>
  
 # [Project 2: Data Preparation & Analysis Project](https://github.com/gregteo/Programming-for-Business-Analytics)
 
@@ -51,7 +53,7 @@ The project aims to build a database for the New York Knicks that keeps track of
  * Application Implementation using Navigation Form, Queries, Lookup Forms & Reports
 
 <p align="center">
- <img src="images/project%204%20image.PNG" width="1000">
+ <img src="images/project%204%20image.PNG">
  </p>
  
 # [Project 5: Data Mining for Business Analytics Project using R](https://github.com/gregteo/Data-Mining-for-Business-Analytics/blob/main/CIS9660FinalREPORT.pdf)
