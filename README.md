@@ -1,5 +1,3 @@
-# Greg-Teo-Portfolio
-
 # [Project 1: Applied Data Science Capstone Project](https://github.com/gregteo/IBM-Data-Science/blob/master/Coursera%20Capstone%20Project.ipynb)
 
 This project will incorporate several data science techniques to find the optimal location based on several criterias. It will also list several other choices that each of which will have their advantages and disadvantages compared to the best possible location.
