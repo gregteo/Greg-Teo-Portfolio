@@ -50,7 +50,7 @@ The project aims to build a database for the New York Knicks that keeps track of
  * Normalization
  * Application Implementation using Navigation Form, Queries, Lookup Forms & Reports
 
-<img src="images/project%204%20image.PNG" width="600">
+<img src="images/project%204%20image.PNG" width="800">
  
 # [Project 5: Data Mining for Business Analytics Project using R](https://github.com/gregteo/Data-Mining-for-Business-Analytics/blob/main/CIS9660FinalREPORT.pdf)
 
