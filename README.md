@@ -9,7 +9,7 @@ This project will incorporate several data science techniques to find the optima
  * Latitude and longitude of neighbourhoods using Google Maps **Geodcoding API**
  * Number and type of restaurant in an area using **Foursquare API**
 
-![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%201%20image.png)
+![](/images/project%201%20image.png)
  
 # [Project 2: Data Preparation & Analysis Project](https://github.com/gregteo/Programming-for-Business-Analytics)
 
