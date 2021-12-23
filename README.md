@@ -68,6 +68,7 @@ This project applies several data analysis techniques to predict the final charg
  * Bagging
  * Random Forest
 
-<img src="images/project%205%20image%201.PNG">
-<img src="images/project%205%20image%202.PNG">
-<img src="images/project%205%20image%203.PNG">
+<img src="images/project%205%20image%201.PNG" width="500"> <img src="images/project%205%20image%202.PNG" width="500">
+<p align="center">
+ <img src="images/project%205%20image%203.PNG" width="500">
+</p>
