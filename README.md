@@ -25,7 +25,7 @@ This project applies web data extraction techniques to retrieve business names a
 
 <img src="images/project%202%20image%201.png" width="400"> <img src="images/project%202%20image%202.png" width="400">
 <p align="center">
- <img src="images/project%202%20image%203.png" width="500">
+ <img src="images/project%202%20image%203.png" width="600">
 </p>
 
 # [Project 3: Models on Predicting Movie Rating Project using R](https://github.com/gregteo/Software-Tools-for-Data-Analysis/blob/main/movie.pdf)
