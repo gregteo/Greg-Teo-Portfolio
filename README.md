@@ -34,6 +34,10 @@ This project aims to predict movies' ratings release on or before July 2017 by u
  * Linear Regression
  * Regression Tree
 
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%203%20image%201.png)
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%203%20image%202.png)
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%203%20image%203.png)
+
 # [Project 4: Database Management Project using Microsoft Access](https://github.com/gregteo/Principles-of-Database-Management-Systems/blob/main/Knicks%E2%80%99%20Resurrection%20Project.pdf)
 
 The project aims to build a database for the New York Knicks that keeps track of the player's performance, staff utilization, and other metrics that can result in useful findings down the road.
