@@ -21,6 +21,10 @@ This project applies web data extraction techniques to retrieve business names a
 #### [Part B: Data Analysis Module](https://github.com/gregteo/Programming-for-Business-Analytics/blob/main/CIS%209650-%20Group%2012%20Final%20Project%20Part%20B.ipynb)
  * Analysis of extracted data from webpage
 
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%202%20image%201.png)
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%202%20image%202.png)
+![](https://github.com/gregteo/Greg-Teo-Portfolio/blob/main/images/project%202%20image%203.png)
+
 # [Project 3: Models on Predicting Movie Rating Project using R](https://github.com/gregteo/Software-Tools-for-Data-Analysis/blob/main/movie.pdf)
 
 This project aims to predict movies' ratings release on or before July 2017 by using various variables including budget, adult, run time, release date, genre and production company.
