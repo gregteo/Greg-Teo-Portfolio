@@ -8,6 +8,7 @@ This project will incorporate several data science techniques to find the optima
  * Neighbourhoods data from wikipidea or other webpages by web scraping using **BeautifulSoup**
  * Latitude and longitude of neighbourhoods using Google Maps **Geodcoding API**
  * Number and type of restaurant in an area using **Foursquare API**
+ * **K-means Clustering**
 
 <p align="center">
  <img src="images/project%201%20image.png">
