@@ -42,7 +42,7 @@ This project aims to predict movies' ratings release on or before July 2017 by u
 
 <img src="images/project%203%20image%201.PNG" width="500"> <img src="images/project%203%20image%202.PNG" width="500">
 <p align="center">
- <img src="images/project%203%20image%203.PNG" width="700">
+ <img src="images/project%203%20image%203.PNG" width="600">
 </p>
 
 # [Project 4: Database Management Project using Microsoft Access](https://github.com/gregteo/Principles-of-Database-Management-Systems/blob/main/Knicks%E2%80%99%20Resurrection%20Project.pdf)
@@ -73,5 +73,5 @@ This project applies several data analysis tool and techniques to predict the fi
 
 <img src="images/project%205%20image%201.PNG" width="500"> <img src="images/project%205%20image%202.PNG" width="500">
 <p align="center">
- <img src="images/project%205%20image%203.PNG" width="700">
+ <img src="images/project%205%20image%203.PNG" width="600">
 </p>
