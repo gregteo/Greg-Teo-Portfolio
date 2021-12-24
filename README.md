@@ -10,10 +10,12 @@ Project incorporated several data science techniques to find the optimal locatio
  * Number and type of restaurant in an area using **Foursquare API**
  * **K-means Clustering**
 
+
 <p align="center">
  <img src="images/project%201%20image.png">
 </p>
  
+
 # [Project 2: Data Preparation & Analysis Project](https://github.com/gregteo/Programming-for-Business-Analytics)
 
 This project applies web data extraction techniques to retrieve business names and other related information from webpage. Extracted business names are used as keys and all related information are labelled and stored as values in a dictionary.
