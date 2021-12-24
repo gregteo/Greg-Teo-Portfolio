@@ -2,7 +2,7 @@
 
 # [Project 1: Applied Data Science Capstone Project](https://github.com/gregteo/IBM-Data-Science/blob/master/Coursera%20Capstone%20Project.ipynb)
 
-This project will incorporate several data science techniques to find the optimal location based on several criterias. It will also list several other choices that each of which will have their advantages and disadvantages compared to the best possible location.
+Project incorporated several data science techniques to find the optimal location based on several criterias. It will also list several other choices that each of which will have their advantages and disadvantages compared to the best possible location.
 
 #### Data sources & Tools used in this project:
  * Neighbourhoods data from wikipidea or other webpages by web scraping using **BeautifulSoup**
@@ -59,7 +59,7 @@ The project aims to build a database for the New York Knicks that keeps track of
  
 # [Project 5: Data Mining for Business Analytics Project using R](https://github.com/gregteo/Data-Mining-for-Business-Analytics/blob/main/CIS9660FinalREPORT.pdf)
 
-This project applies several data analysis techniques to predict the final charges of health insurance using several variables like agi, BMI, sex, smoker, region & number of children.
+This project applies several data analysis tool and techniques to predict the final charges of health insurance using several variables like agi, BMI, sex, smoker, region & number of children.
 
 #### Models & Tools used in this project:
  * Linear Regression
