@@ -71,7 +71,7 @@ This project applies several data analysis tool and techniques to predict the fi
  * Bagging
  * Random Forest
 
-<img src="images/project%205%20image%201.PNG" width="500"> <img src="images/project%205%20image%202.PNG" width="500">
+<img src="images/project%205%20image%201.PNG" width="600"> <img src="images/project%205%20image%202.PNG" width="600">
 <p align="center">
  <img src="images/project%205%20image%203.PNG" width="600">
 </p>
