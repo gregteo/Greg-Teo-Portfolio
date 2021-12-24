@@ -26,9 +26,9 @@ This project applies web data extraction techniques to retrieve business names a
 #### [Part B: Data Analysis Module](https://github.com/gregteo/Programming-for-Business-Analytics/blob/main/CIS%209650-%20Group%2012%20Final%20Project%20Part%20B.ipynb)
  * Analysis of extracted data from webpage
 
-<img src="images/project%202%20image%201.png" width="600"> <img src="images/project%202%20image%202.png" width="600">
+<img src="images/project%202%20image%201.png" width="500"> <img src="images/project%202%20image%202.png" width="500">
 <p align="center">
- <img src="images/project%202%20image%203.png" width="600">
+ <img src="images/project%202%20image%203.png" width="700">
 </p>
 
 # [Project 3: Models on Predicting Movie Rating Project using R](https://github.com/gregteo/Software-Tools-for-Data-Analysis/blob/main/movie.pdf)
@@ -40,9 +40,9 @@ This project aims to predict movies' ratings release on or before July 2017 by u
  * Linear Regression
  * Regression Tree
 
-<img src="images/project%203%20image%201.PNG" width="600"> <img src="images/project%203%20image%202.PNG" width="600">
+<img src="images/project%203%20image%201.PNG" width="500"> <img src="images/project%203%20image%202.PNG" width="500">
 <p align="center">
- <img src="images/project%203%20image%203.PNG" width="600">
+ <img src="images/project%203%20image%203.PNG" width="700">
 </p>
 
 # [Project 4: Database Management Project using Microsoft Access](https://github.com/gregteo/Principles-of-Database-Management-Systems/blob/main/Knicks%E2%80%99%20Resurrection%20Project.pdf)
@@ -71,7 +71,7 @@ This project applies several data analysis tool and techniques to predict the fi
  * Bagging
  * Random Forest
 
-<img src="images/project%205%20image%201.PNG" width="550"> <img src="images/project%205%20image%202.PNG" width="550">
+<img src="images/project%205%20image%201.PNG" width="500"> <img src="images/project%205%20image%202.PNG" width="500">
 <p align="center">
- <img src="images/project%205%20image%203.PNG" width="600">
+ <img src="images/project%205%20image%203.PNG" width="700">
 </p>
