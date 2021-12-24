@@ -1,4 +1,4 @@
-# Greg Martin Teo
+# [Greg Martin Teo](https://www.linkedin.com/in/greg-martin-teo-a395a1103/)
 
 # [Project 1: Applied Data Science Capstone Project](https://github.com/gregteo/IBM-Data-Science/blob/master/Coursera%20Capstone%20Project.ipynb)
 
